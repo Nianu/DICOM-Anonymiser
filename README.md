@@ -1,1 +1,1 @@
-# DICOM-Anonymiser
+# DICOM Anonymiser
